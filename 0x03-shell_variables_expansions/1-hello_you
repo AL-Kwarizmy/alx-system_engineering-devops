@@ -1,2 +1,2 @@
 #!/bin/bash
-$USER == me ? echo "hello user"
+echo "hello $USER"
